@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asgoodasbread&label=Profile%20views&color=0e75b6&style=flat" alt="asgoodasbread" /> </p>
 
-- 🔭 I’m currently working on [AoC-2023](https://adventofcode.com/2023)
+- 🔭 I’m currently working on [AoC-2024](https://adventofcode.com/2024)
 
-- 🌱 I’m currently learning **Rust,C/C++**
+- 🌱 I’m currently learning **Rust,C/C++,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
