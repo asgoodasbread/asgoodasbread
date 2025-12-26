@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asgoodasbread&label=Profile%20views&color=0e75b6&style=flat" alt="asgoodasbread" /> </p>
 
-- 🔭 I’m currently working on [AoC-2024](https://adventofcode.com/2025)
+- 🔭 I’m currently working on [AoC-2025](https://adventofcode.com/2025)
 
 - 🌱 I’m currently learning **Rust,C/C++,Python**
 
