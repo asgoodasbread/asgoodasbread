@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AoC-2025](https://adventofcode.com/2025)
 
-- 🌱 I’m currently learning **Rust,C/C++,Python**
+- 🌱 I’m currently learning **Rust,C/C++,Python,GO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
