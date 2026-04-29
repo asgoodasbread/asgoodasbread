@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently crushing **[Advent of Code 2025](https://adventofcode.com/2025)**
 - 🌱 I’m currently learning and building in: **Rust, C/C++, Python, and Go**
-- ⚡ Fun fact: I code for fun and love diving deep into embedded systems!
+- ⚡ Fun fact: I code for fun and love diving deep into embedded systems & ML!
 
 ### 📫 Connect with me
 <p align="left">
